@@ -10,7 +10,7 @@ https://github.com/coil-kt/coil
 
 coil は Kotlin Coroutines を使った画像読み込みライブラリです。READMEによると、早くて軽くて使うのが簡単！
 
-・比較記事あり
+・比較記事あり  
 https://medium.com/swlh/benchmarking-image-loading-libraries-on-android-3ddf365a1927
 
 ## 2. 使ってみる
@@ -29,6 +29,8 @@ imageView.load("hogehoge.png")
 - なんか画像読み込めなかった
 - 時期尚早？
 - めっちゃ開発してる
+
+
 https://stackoverflow.com/questions/63443528/load-image-with-coil-android-kotlin
 
 まだ使えないかも・・いい味見でした
