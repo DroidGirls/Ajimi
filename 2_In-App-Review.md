@@ -16,7 +16,7 @@ Google Play In-App Review API は アプリ内から Google Play にレビュー
 ①お試し導入
 
 ドキュメントはこちらから  
-https://developer.android.com/guide/playcore/in-app-review
+https://developer.android.com/guide/playcore/in-app-review  
 https://developer.android.com/guide/playcore/in-app-review/kotlin-java
 
 Actionでは使わないでとのことですが今回はお試しで実施するため適当にButtonを作成  
