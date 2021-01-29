@@ -20,7 +20,7 @@ https://developer.android.com/guide/playcore/in-app-review
 https://developer.android.com/guide/playcore/in-app-review/kotlin-java
 
 Actionでは使わないでとのことですが今回はお試しで実施するため適当にButtonを作成  
-押されたタイミングでIn-App Reviewが起動するようにする
+押されたタイミングで起動するように実装
 
 ②テスト
 
